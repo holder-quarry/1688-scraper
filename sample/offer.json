@@ -1,0 +1,445 @@
+{
+  "type": "offer",
+  "offer_id": "762640272016",
+  "title": "柠檬猫砂包邮10公斤除臭结团猫沙膨润土低尘猫砂20斤10kg猫咪用品",
+  "unit": "个",
+  "sold_text": "1.3万+",
+  "price_min": 9.9,
+  "price_max": 18,
+  "price_display": "9.90-18.00",
+  "price_tiers": [
+    {
+      "price": 9.9,
+      "from_quantity": 1,
+      "price_usd": 1.485
+    },
+    {
+      "price": 18,
+      "from_quantity": 1,
+      "price_usd": 2.7
+    }
+  ],
+  "min_order": 1,
+  "stock_total": 1380361,
+  "is_price_private": false,
+  "sku_count": 14,
+  "skus": [
+    {
+      "sku_id": 5422658370906,
+      "spec": "升级款原味20斤",
+      "price": 16.5,
+      "discount_price": 16.5,
+      "stock": 99878,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370899,
+      "spec": "柠檬味20斤",
+      "price": 16.5,
+      "discount_price": 16.5,
+      "stock": 99398,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370898,
+      "spec": "柠檬味10斤",
+      "price": 10,
+      "discount_price": 10,
+      "stock": 83817,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370907,
+      "spec": "升级款柠檬味20斤",
+      "price": 18,
+      "discount_price": 18,
+      "stock": 99862,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370908,
+      "spec": "升级款薰衣草味20斤",
+      "price": 18,
+      "discount_price": 18,
+      "stock": 99937,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370904,
+      "spec": "薰衣草味10斤",
+      "price": 10,
+      "discount_price": 10,
+      "stock": 99935,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370905,
+      "spec": "薰衣草味20斤",
+      "price": 16.5,
+      "discount_price": 16.5,
+      "stock": 99919,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370901,
+      "spec": "奶香味20斤",
+      "price": 16.5,
+      "discount_price": 16.5,
+      "stock": 99904,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370900,
+      "spec": "奶香味10斤",
+      "price": 10,
+      "discount_price": 10,
+      "stock": 99945,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370909,
+      "spec": "升级款茉莉味20斤",
+      "price": 18,
+      "discount_price": 18,
+      "stock": 99916,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370896,
+      "spec": "原味10斤",
+      "price": 9.9,
+      "discount_price": 9.9,
+      "stock": 98970,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370897,
+      "spec": "原味20斤",
+      "price": 15,
+      "discount_price": 15,
+      "stock": 99072,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370903,
+      "spec": "茉莉味20斤",
+      "price": 16.5,
+      "discount_price": 16.5,
+      "stock": 99871,
+      "sold": 0
+    },
+    {
+      "sku_id": 5422658370902,
+      "spec": "茉莉味10斤",
+      "price": 10,
+      "discount_price": 10,
+      "stock": 99937,
+      "sold": 0
+    }
+  ],
+  "images": [
+    "https://cbu01.alicdn.com/img/ibank/O1CN01eF0scy1yIF85Dpb9d_!!2217144346555-0-cib.jpg",
+    "https://cbu01.alicdn.com/img/ibank/O1CN01pKa9Oe1yIF8ntg0gr_!!2217144346555-0-cib.jpg",
+    "https://cbu01.alicdn.com/img/ibank/O1CN019Yu3ha1yIF8kB3MzX_!!2217144346555-0-cib.jpg",
+    "https://cbu01.alicdn.com/img/ibank/O1CN01atazM81yIF8leLD0Z_!!2217144346555-0-cib.jpg",
+    "https://cbu01.alicdn.com/img/ibank/O1CN01KS5T9W1yIF83Jvj4W_!!2217144346555-0-cib.jpg"
+  ],
+  "main_images": [
+    "https://cbu01.alicdn.com/img/ibank/O1CN01eF0scy1yIF85Dpb9d_!!2217144346555-0-cib.jpg",
+    "https://cbu01.alicdn.com/img/ibank/O1CN01pKa9Oe1yIF8ntg0gr_!!2217144346555-0-cib.jpg",
+    "https://cbu01.alicdn.com/img/ibank/O1CN019Yu3ha1yIF8kB3MzX_!!2217144346555-0-cib.jpg",
+    "https://cbu01.alicdn.com/img/ibank/O1CN01atazM81yIF8leLD0Z_!!2217144346555-0-cib.jpg",
+    "https://cbu01.alicdn.com/img/ibank/O1CN01KS5T9W1yIF83Jvj4W_!!2217144346555-0-cib.jpg"
+  ],
+  "has_video": true,
+  "attributes": {
+    "1": "猫砂除臭",
+    "2": "猫砂 膨润土",
+    "3": "猫砂20斤大批量",
+    "猫砂种类": "膨润土猫砂",
+    "品牌": "瓜洲牧",
+    "产地": "中国",
+    "是否进口": "否",
+    "货号": "WCCW-AA163",
+    "是否专利货源": "否",
+    "规格": "原味10斤、原味20斤、柠檬味10斤、柠檬味20斤、奶香味10斤、奶香味20斤、茉莉味10斤、茉莉味20斤、薰衣草味10斤、薰衣草味20斤、升级款原味20斤、升级款柠檬味20斤、升级款薰衣草味20斤、升级款茉莉味20斤",
+    "主要下游平台": "ebay、亚马逊、wish、速卖通、独立站、LAZADA、其他",
+    "主要销售地区": "非洲、欧洲、南美、东南亚、北美、东北亚、中东、其他",
+    "有可授权的自有品牌": "是",
+    "是否跨境出口专供货源": "是",
+    "送礼用途": "广告礼品、促销赠品、福利礼品、公关礼品、其他",
+    "是否属于礼品": "是，商务礼品",
+    "是否IP授权": "否",
+    "除臭方式": "香味掩盖"
+  },
+  "company": "义乌市卓途宠物用品有限公司",
+  "seller_login_id": "夏伦宠物用品厂",
+  "seller_service_score": "4.5分",
+  "repeat_rate_3m": "41.28%",
+  "good_rate_percent": 92.5,
+  "goods_grade": 4.7,
+  "review_count": 9034,
+  "review_tags": [
+    {
+      "name": "客服很耐心",
+      "count": 744
+    },
+    {
+      "name": "价格很便宜",
+      "count": 711
+    },
+    {
+      "name": "质量很好",
+      "count": 628
+    },
+    {
+      "name": "性价比超高",
+      "count": 496
+    },
+    {
+      "name": "物流快",
+      "count": 470
+    },
+    {
+      "name": "入手推荐",
+      "count": 301
+    },
+    {
+      "name": "猫咪很喜欢",
+      "count": 215
+    },
+    {
+      "name": "质量好",
+      "count": 162
+    },
+    {
+      "name": "下手值得",
+      "count": 130
+    },
+    {
+      "name": "推荐值得",
+      "count": 122
+    },
+    {
+      "name": "卖家人真不错",
+      "count": 106
+    },
+    {
+      "name": "猫咪爱吃",
+      "count": 100
+    },
+    {
+      "name": "跟描述一样",
+      "count": 72
+    },
+    {
+      "name": "一次购物真心不错",
+      "count": 62
+    }
+  ],
+  "ships_from": "浙江省金华市",
+  "post_fee": 0,
+  "post_free": false,
+  "delivery_promise": "承诺48小时发货·常发韵达快递",
+  "sku_weights_g": [
+    {
+      "sku_id": null,
+      "weight": 20000
+    }
+  ],
+  "guarantees": [
+    "严选品质不符包赔",
+    "严选晚发必赔",
+    "7天无理由退货",
+    "假一赔四"
+  ],
+  "category_id": 122584001,
+  "description_url": "https://itemcdn.tmall.com/1688offer/icoss13798043988ae2a2ce2ec6a101",
+  "seller_user_id": 2217144346555,
+  "seller_member_id": "b2b-2217144346555054f6",
+  "shop_url": "https://shop852973rm68692.1688.com",
+  "company_auth_name": "义乌市卓途宠物用品有限公司",
+  "shop_card_type": "pm",
+  "seller_is_trustpass": true,
+  "seller_is_strength_merchant": true,
+  "seller_is_factory": false,
+  "business_type": "slsj",
+  "sold_count_min": 13000,
+  "sales_period": "全网销量",
+  "is_best_offer": false,
+  "labels": [
+    "品牌",
+    "1688严选"
+  ],
+  "promotion_name": null,
+  "promotion_text": null,
+  "price_ranges": [],
+  "prices_before_promotion": [
+    {
+      "price": 9.9,
+      "from_quantity": 1
+    },
+    {
+      "price": 18,
+      "from_quantity": 1
+    }
+  ],
+  "delivery_days": 2,
+  "expect_send_hours": 12,
+  "ships_from_code": "330782",
+  "unit_weight_kg": 20,
+  "sku_packages": [
+    {
+      "sku_id": null,
+      "spec": "",
+      "weight_g": 20000,
+      "length_cm": 0,
+      "width_cm": 0,
+      "height_cm": 0,
+      "volume_cm3": 0
+    }
+  ],
+  "video_url": "https://cloud.video.taobao.com/play/u/2217144346555/p/2/e/6/t/1/468355159597.mp4",
+  "video_cover": "https://img.alicdn.com/imgextra/i4/6000000003362/O1CN01yx3ILj1ahqXQZ7TxL_!!6000000003362-0-tbvideo.jpg",
+  "is_cross_border": true,
+  "is_dropship": true,
+  "has_free_sample": false,
+  "supports_light_customization": false,
+  "is_processing_offer": false,
+  "pickup_within_48h": true,
+  "supports_mix": true,
+  "mix_amount": 40,
+  "mix_number": 3,
+  "cross_border_services": [],
+  "offer_signs": [
+    "fx48hPickupAssr",
+    "hasAIMaterials",
+    "hasFreightTemplate",
+    "hasOrder",
+    "hasSearchPicture",
+    "hasSendGoodsAddress",
+    "hasWhitePicInOffer",
+    "isAegisTrade",
+    "isAlipaySupported",
+    "isBuyerProtection",
+    "isCBDistribution",
+    "isCQKXOffer",
+    "isCUserOutboundRed",
+    "isChtOffer",
+    "isCndOffer",
+    "isConsignMarketOffer",
+    "isCrossBorderOffer",
+    "isDeliveryguaranteeYx",
+    "isDistributionBuffer",
+    "isDistributionPriceUpgrade",
+    "isFxSellerGenAiMaterial",
+    "isGpfOffer",
+    "isHtqqItem",
+    "isJsls4Offer",
+    "isOnePsale",
+    "isPublishFeed",
+    "isQualityguaranteeYx",
+    "isSearchOffer",
+    "isSkuTradeSupported",
+    "isSupplyProcessOffer",
+    "isSupplyStockOffer",
+    "isSupportMix",
+    "isSupportStock",
+    "isSupportVideo",
+    "isSwbpBasePoolOffer",
+    "isTbDistributionOffer",
+    "isToKuaiShou",
+    "isToTikTok",
+    "isTtptOffer",
+    "isWeChatSupply",
+    "isWxzfOffer",
+    "isYjbyOffer",
+    "isYxBonusOffer",
+    "isYxSeHighOffer",
+    "isYxTopOffer",
+    "xkzxlkjitem"
+  ],
+  "category_name": "猫砂",
+  "category_ids": [
+    122916001,
+    121828001,
+    122584001
+  ],
+  "brand": "瓜洲牧",
+  "status": "PUBLISHED",
+  "offer_type": "fashion",
+  "created_at": "2024-01-14T07:37:02Z",
+  "modified_at": "2026-11-17T22:57:29Z",
+  "posted_at": "2026-09-22T07:10:03Z",
+  "expires_at": "2036-09-19T07:10:03Z",
+  "orders_30d_text": "800+",
+  "orders_30d_min": 800,
+  "visitors_7d": 15,
+  "usual_carrier": "承诺48小时发货·常发韵达快递",
+  "selling_points": {
+    "猫砂种类": "膨润土猫砂",
+    "除臭方式": "香味掩盖"
+  },
+  "dropship_channels": [
+    "淘宝",
+    "抖音",
+    "快手",
+    "微信",
+    "Lazada",
+    "Amazon",
+    "Shopify",
+    "Shopee"
+  ],
+  "supports_distribution": true,
+  "seller_identity": "cht",
+  "shop_contact_url": "https://shop852973rm68692.1688.com/page/contactinfo.html",
+  "shop_credit_url": "https://shop852973rm68692.1688.com/page/creditdetail.html",
+  "requested_id": "762640272016",
+  "url": "https://detail.1688.com/offer/762640272016.html",
+  "supplier_name": "义乌市卓途宠物用品有限公司",
+  "supplier_years": 3,
+  "supplier_star": 4,
+  "supplier_star_text": "四星供应链",
+  "supplier_main_category": "猫狗用品",
+  "supplier_quality_rate": "99.9%",
+  "supplier_scores": {
+    "品质达标率": "99.9%",
+    "综合履约率": "98.8%",
+    "店铺回头率": "41.4%"
+  },
+  "supplier_origin": "domestic",
+  "rating_grade": 4.7,
+  "rating_good_percent": 92.2,
+  "rating_scores": {
+    "商品好评": "92%",
+    "按时发货": null,
+    "商品退款": null
+  },
+  "dropship_stats": {
+    "商家代发热度": "1684",
+    "近30天代发数量": "100以内",
+    "近7天代发数量": "100以内",
+    "48h揽收率": "100.00%",
+    "24h揽收率": "95.00%",
+    "下游铺货数": "100以内",
+    "铺货分销商数": "90000+",
+    "代发品质达标率": "100.00%",
+    "代发买家留货率": "100.00%",
+    "商品发布时间": "2024年1月"
+  },
+  "dropship_prices": [
+    {
+      "quantity": "1件价格",
+      "price": 9.9
+    }
+  ],
+  "dropship_services": [
+    "官方仓退货",
+    "晚揽必赔"
+  ],
+  "price_min_usd": 1.485,
+  "price_max_usd": 2.7,
+  "usd_per_cny": 0.150012,
+  "usd_rate_date": "2026-11-17",
+  "title_en": "Lemon cat litter with free shipping 10kg, deodorizing clumping cat litter, bentonite clay, low-dust cat litter, 20 jin 10kg cat supplies"
+}

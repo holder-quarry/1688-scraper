@@ -1,0 +1,11 @@
+{
+    "name": "1688-scraper-examples",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Examples: 1688.com offers by keyword, link or product photo as JSON or CSV, through hosted scrapers on Apify.",
+    "type": "module",
+    "license": "MIT",
+    "dependencies": {
+        "apify-client": "^2.26.0"
+    }
+}
